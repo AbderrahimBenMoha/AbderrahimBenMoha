@@ -54,20 +54,39 @@ I'm a **5th-year Computer Science Engineering student at Polytech Lyon**, intere
   </tr>
 </table>
 
+
 ## `> Tech stack`
 
-<p><strong>Languages & tools</strong></p>
+<p><strong>Languages & Tools</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,php,git,docker,linux&perline=8" alt="Python, Java, C, JavaScript, PHP, Git, Docker and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,php,html,css,git,docker,linux&perline=10" alt="Python, Java, C, JavaScript, PHP, HTML, CSS, Git, Docker and Linux" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VHDL-555555?style=for-the-badge" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
 </p>
 
 <p><strong>Data Engineering</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Spark%20Structured%20Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark Structured Streaming" />
   <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" alt="Talend Open Studio" />
+</p>
+
+<p><strong>Databases</strong></p>
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p><strong>Data Analysis & Visualization</strong></p>
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
 <p><strong>AI & Machine Learning</strong></p>
@@ -77,12 +96,13 @@ I'm a **5th-year Computer Science Engineering student at Polytech Lyon**, intere
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
+
 ## `> Featured projects`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/AbderrahimBenMoha/Pipeline-de-donn-es-de-march-en-temps-r-el">Real-Time Market Data Pipeline</a></h3>
+      <h3><a href="https://github.com/AbderrahimBenMoha/Pipeline-de-donn-es-de-march-en-temps-r-el">Real-Time Market Data Pipeline</a></h3>
       <p>Real-time BTC/USDT data pipeline: ingestion from Binance, streaming with Kafka and Spark, Bronze/Silver/Gold storage in Delta Lake, and an interactive dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -92,7 +112,7 @@ I'm a **5th-year Computer Science Engineering student at Polytech Lyon**, intere
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/AbderrahimBenMoha/Apprentissage-par-renforcement_LunarLander">LunarLander — Deep Reinforcement Learning</a></h3>
+      <h3><a href="https://github.com/AbderrahimBenMoha/Apprentissage-par-renforcement_LunarLander">LunarLander — Deep Reinforcement Learning</a></h3>
       <p>Experimenting with Deep Q-Network agents in a simulated environment, with training and evaluation of reinforcement learning approaches.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
