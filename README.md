@@ -147,13 +147,6 @@ I'm a **5th-year Computer Science Engineering student at Polytech Lyon**, intere
   </a>
 </p>
 
-## `> GitHub overview`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbderrahimBenMoha&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=123B65&icon_color=087E8B&text_color=57606A" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahimBenMoha&layout=compact&hide_border=true&theme=transparent&title_color=123B65&text_color=57606A" alt="Most used languages" />
-</p>
-
 ---
 
 <p align="center">
