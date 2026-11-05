@@ -62,7 +62,6 @@ I'm a **5th-year Computer Science Engineering student at Polytech Lyon**, intere
   <img src="https://skillicons.dev/icons?i=python,java,c,js,php,html,css,git,docker,linux&perline=10" alt="Python, Java, C, JavaScript, PHP, HTML, CSS, Git, Docker and Linux" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/VHDL-555555?style=for-the-badge" alt="VHDL" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
 </p>
 
 <p><strong>Data Engineering</strong></p>
