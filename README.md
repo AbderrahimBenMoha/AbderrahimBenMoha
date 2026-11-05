@@ -1,7 +1,7 @@
 <!-- Profile README | Abderrahim Ben Moha -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0B1020,123B65,087E8B&height=210&section=header&text=Abderrahim%20Ben%20Moha&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20%26amp%3B%20AI&descAlignY=58&descSize=16" alt="Abderrahim Ben Moha — Data & AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123B65,100:087E8B&height=210&section=header&text=Abderrahim%20Ben%20Moha&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20%26amp%3B%20AI&descAlignY=58&descSize=16" alt="Abderrahim Ben Moha — Data & AI" />
 </p>
 
 <p align="center">
